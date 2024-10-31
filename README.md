@@ -2,7 +2,7 @@
 
 * Made with the help of a React.JS learning tutorial
 
-### Technologies:
+### Technologies: 🚀
 * React
 * Vite
 * TypeScript | Javascript
